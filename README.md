@@ -1,3 +1,4 @@
-# webcam2 - A simple webcam 3d printer control
+# webcam2
+## A simple webcam for 3d printer control.
 
-A work in progress.
+Runs on a Raspberry Pi. A work in progress.
